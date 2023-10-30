@@ -9,6 +9,22 @@ root.render(
   <React.StrictMode>
     <h1 className="App"> Weather App</h1>
     <App />
+    <p className="App">
+      {" "}
+      <a
+        href="https://github.com/EmLu26/react-week-4-challenge"
+        target="_blank"
+      >
+        Open-source code
+      </a>
+      {""} by{" "}
+      <a
+        href="https://www.shecodes.io/graduates/79171-emma-whitney"
+        target="_blank"
+      >
+        Emma Whitney
+      </a>
+    </p>
   </React.StrictMode>
 );
 
