@@ -14,6 +14,7 @@ root.render(
       <a
         href="https://github.com/EmLu26/react-week-4-challenge"
         target="_blank"
+        rel="noreferrer"
       >
         Open-source code
       </a>
@@ -21,6 +22,7 @@ root.render(
       <a
         href="https://www.shecodes.io/graduates/79171-emma-whitney"
         target="_blank"
+        rel="noreferrer"
       >
         Emma Whitney
       </a>
